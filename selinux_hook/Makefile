@@ -1,4 +1,4 @@
-SELINUX_VERSION := 1.1.1-fastlookup
+SELINUX_VERSION := 1.1.2-dirtysepolicy
 
 ifndef KP_DIR
     KP_DIR = ../KernelPatch
